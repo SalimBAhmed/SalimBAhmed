@@ -13,18 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### > whoami
-> [Salim Ben Ahmed]
-> Based in: Tunisia 🇹🇳
-> Currently: Software Engineer / MLOps.
+# ⚡ Terminal Session: 
 
-### > ls skills/
-- **swe/** (Python, Go)
-- **devops/** (Kubernetes, Docker, Jenkins)
+${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/profile/ ${\color{aquamarine}\text{]}}$ <br>
+${\color{aquamarine}\text{└─ }}\$$ whoami <br>
+Salim Ben Ahmed - Software Engineer / MLOps - Tunisia
 
-### > cat current_mission.txt
-Trying to improve a little everyday.
+${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/skills/ ${\color{aquamarine}\text{]}}$ <br>
+${\color{aquamarine}\text{└─ }}\$$ ls -al <br>
+${\color{indianred}\text{drwxr-xr-x}}\text{ swe/      (Python, Go)}$ <br>
+${\color{indianred}\text{drwxr-xr-x}}\text{ devops/   (Kubernetes, Docker, Jenkins)}$ <br>
+${\color{indianred}\text{drwxr-xr-x}}\text{ .softskills/}$ <br>
 
-### > ping social_media
-- [GitHub](https://github.com/SalimBAhmed)
-- [LinkedIn](https://linkedin.com/in/salim-ben-ahmed-104657194)
+${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/goals/ ${\color{aquamarine}\text{]}}$ <br>
+${\color{aquamarine}\text{└─ }}\$$ cat current\_mission.txt <br>
+${\color{orchid}\text{"Trying to improve a little everyday."}}$ <br>
+
+${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/contact/ ${\color{aquamarine}\text{]}}$ <br>
+${\color{aquamarine}\text{└─ }}\$$ ping social\_media <br>
+64 bytes from [github.com](https://github.com/SalimBAhmed) <br>
+64 bytes from [linkedin.com](https://www.linkedin.com/in/salim-ben-ahmed-104657194/) <br>
