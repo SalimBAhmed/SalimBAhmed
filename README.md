@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # ⚡ Terminal Session: 
 ${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/profile/ ${\color{aquamarine}\text{]}}$ <br>
 ${\color{aquamarine}\text{└─ }}\$$ whoami <br>
-Salim Ben Ahmed - Software Engineer / MLOps - Tunisia
+Salim Ben Ahmed - Software Engineer / DevOps / MLOps - Tunisia
 
 ${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/skills/ ${\color{aquamarine}\text{]}}$ <br>
 ${\color{aquamarine}\text{└─ }}\$$ ls -al <br>
