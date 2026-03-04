@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20👋&fontSize=90&strokeWidth=3)
 
 # ⚡ Terminal Session: 
 ${\color{aquamarine}\text{┌──(salim@github)-[}}$ ~/profile/ ${\color{aquamarine}\text{]}}$ <br>
